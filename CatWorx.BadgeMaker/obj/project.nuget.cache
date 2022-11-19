@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Si4Vr6AVHGHeIZVERxjfAuw7cCb+b0E07vwCXhGPqLfO0DYXLb+LRVKySHj79Hme0m1joPYj85iC2mwQVULILA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamyar\\Desktop\\CSHARP_PRACTICE\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamyar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0\\skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0\\skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
