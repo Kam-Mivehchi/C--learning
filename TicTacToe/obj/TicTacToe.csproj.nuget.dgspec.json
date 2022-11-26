@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj": {}
+    "G:\\Code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "G:\\code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj": {
+    "G:\\Code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "G:\\Code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "G:\\code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "G:\\Code\\C#\\Projects\\Playground\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
-        "outputPath": "G:\\code\\C#\\Projects\\Playground\\TicTacToe\\obj\\",
+        "outputPath": "G:\\Code\\C#\\Projects\\Playground\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config"
